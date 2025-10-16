@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "461 Adelaide St W",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Immerse yourself in the ultimate urban sanctuary – a breathtaking 1-bedroom Condo Apartment that redefines contemporary living. Boasting 1 beautifully appointed bathrooms and a generous 758 sq ft of intelligently designed space, this home is a testament to modern architectural excellence. From the moment you step inside, you'll be captivated by the seamless flow, abundant natural light, and premium finishes that create an atmosphere of refined elegance and unparalleled comfort.",
+    "heroSubtitle": "Prepare to be transformed by this stunning Condo Apartment that represents the pinnacle of residential design. With 1 carefully curated bedrooms, 1 luxurious bathrooms, and an expansive 758 sq ft floor plan, this home is more than just a living space – it's a lifestyle statement. Every inch has been thoughtfully crafted to provide an exceptional living experience that balances aesthetic appeal with practical functionality, creating a harmonious environment that adapts to your most discerning needs.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760649146718-2912-80 John St-01.jpg"
   },
   "realtor": {
@@ -11,15 +11,12 @@ const config = {
     "title": "REALTOR®",
     "phone": "4166554850",
     "email": "arslan@salesgenius.co",
-    "photoUrl": "",
     "bio": "Professional real estate agent dedicated to helping you find your perfect home.",
+    "photoUrl": null,
     "social": {
-      "facebook": "null",
-      "instagram": "https://www.instagram.com/gta.apartments",
-      "linkedin": "null",
-      "tiktok": "null",
-      "twitter": "null",
-      "youtube": "null"
+      "facebook": "https://www.facebook.com/ExecutiveHomesRealty",
+      "instagram": "https://www.instagram.com/executivehomesrealtyinc/",
+      "website": "https://www.executivehomesrealty.ca/"
     }
   },
   "brokerage": {
@@ -29,7 +26,7 @@ const config = {
   },
   "openHouse": {
     "eventDate": "",
-    "bundlefirst()s": [
+    "bundleItems": [
       {
         "icon": "fas fa-ruler-combined",
         "text": "Architectural Floor Plan"
