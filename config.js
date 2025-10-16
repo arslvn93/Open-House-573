@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "461 Adelaide St W",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Prepare to be transformed by this stunning Condo Apartment that represents the pinnacle of residential design. With 1 carefully curated bedrooms, 1 luxurious bathrooms, and an expansive 758 sq ft floor plan, this home is more than just a living space – it's a lifestyle statement. Every inch has been thoughtfully crafted to provide an exceptional living experience that balances aesthetic appeal with practical functionality, creating a harmonious environment that adapts to your most discerning needs.",
+    "heroSubtitle": "Experience the epitome of modern living in this extraordinary 1-bedroom, 1-bathroom Condo Apartment. Spanning an impressive 758 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760649146718-2912-80 John St-01.jpg"
   },
   "realtor": {
@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "Executive Homes Realty Inc",
-    "logoUrl": "",
+    "logoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757536840225-Office Logo.png",
     "address": "1-290 TRADERS BLVD EAST, MISSISSAUGA, Ontario, L4Z 1W7"
   },
   "openHouse": {
