@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "461 Adelaide St W",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Experience the epitome of modern living in this extraordinary 1-bedroom, 1-bathroom Condo Apartment. Spanning an impressive 758 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
+    "heroSubtitle": "Discover a home that goes beyond mere living – a 1-bedroom Condo Apartment that stands as a beacon of modern architectural brilliance. Spread across an impressive 758 sq ft and featuring 1 meticulously designed bathrooms, this property represents the perfect intersection of form and function. Each element has been carefully considered to create a living space that is not just a house, but a true reflection of contemporary lifestyle and sophisticated design principles.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760649146718-2912-80 John St-01.jpg"
   },
   "realtor": {
@@ -11,8 +11,8 @@ const config = {
     "title": "REALTOR®",
     "phone": "4166554850",
     "email": "arslan@salesgenius.co",
+    "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757536840225-Office Logo.png",
     "bio": "Professional real estate agent dedicated to helping you find your perfect home.",
-    "photoUrl": null,
     "social": {
       "facebook": "https://www.facebook.com/ExecutiveHomesRealty",
       "instagram": "https://www.instagram.com/executivehomesrealtyinc/",
