@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "461 Adelaide St W",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Discover a home that goes beyond mere living – a 1-bedroom Condo Apartment that stands as a beacon of modern architectural brilliance. Spread across an impressive 758 sq ft and featuring 1 meticulously designed bathrooms, this property represents the perfect intersection of form and function. Each element has been carefully considered to create a living space that is not just a house, but a true reflection of contemporary lifestyle and sophisticated design principles.",
+    "heroSubtitle": "Immerse yourself in the ultimate urban sanctuary – a breathtaking 1-bedroom Condo Apartment that redefines contemporary living. Boasting 1 beautifully appointed bathrooms and a generous 758 sq ft of intelligently designed space, this home is a testament to modern architectural excellence. From the moment you step inside, you'll be captivated by the seamless flow, abundant natural light, and premium finishes that create an atmosphere of refined elegance and unparalleled comfort.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760649146718-2912-80 John St-01.jpg"
   },
   "realtor": {
